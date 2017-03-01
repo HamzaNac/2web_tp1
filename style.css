@@ -1,0 +1,27 @@
+body{
+    background-color: #323232;
+}
+h1{
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 50px;
+    font-family: Gibson,Helvetica Neue,HelveticaNeue,Helvetica,Arial,sans-serif;
+
+}
+img{
+    width: 1000px;
+    height: 600px;
+    position: relative;
+    margin-left: 200px;
+    border-radius: 200px;
+
+}
+h1,td,li,p,a{
+    color:white;
+}
+.logo{
+    width: 100px;
+    height: 70px;
+    position: relative;
+
+}
